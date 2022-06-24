@@ -1,2 +1,14 @@
 
 .DS_Store
+build/TOAD/xref-TOAD.html
+build/TOAD/warn-TOAD.txt
+build/TOAD/TOAD.pkg
+build/TOAD/TOAD
+build/TOAD/PYZ-00.toc
+build/TOAD/PYZ-00.pyz
+build/TOAD/PKG-00.toc
+build/TOAD/EXE-00.toc
+build/TOAD/COLLECT-00.toc
+build/TOAD/BUNDLE-00.toc
+build/TOAD/base_library.zip
+build/TOAD/Analysis-00.toc

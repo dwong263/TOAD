@@ -1,1 +1,0 @@
-pyinstaller --windowed --name="TOAD" --icon="frog.icns" --add-data="main.ui:." --add-data="dialog.ui:." main.py
